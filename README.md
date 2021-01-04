@@ -11,7 +11,8 @@ A shipping company across the world has hired you to create a form and workflow 
 * Client scripts to pre-populate fields
 
 ### Getting Started
-Content is within ServiceNow instance
+* Content is within ServiceNow instance
+* Log in to the instance, go to Service Portal
 
 ### Usage
 Within service catalog click shipping request
